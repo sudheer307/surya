@@ -1,2 +1,3 @@
 git is a distributed version control
-git git git git git git 
+and also called as scm
+
